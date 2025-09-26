@@ -45,5 +45,10 @@
 	<true/>
 	<key>UIApplicationSupportsIndirectInputEvents</key>
 	<true/>
+	<key>NSBluetoothAlwaysUsageDescription</key>
+    <string>BLE cihazlarını taramak ve bağlanmak için Bluetooth iznine ihtiyaç vardır.</string>
+
+    <key>NSBluetoothPeripheralUsageDescription</key>
+    <string>BLE cihazlarına bağlanmak için Bluetooth iznine ihtiyaç vardır.</string>
 </dict>
 </plist>
